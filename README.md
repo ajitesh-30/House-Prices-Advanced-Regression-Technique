@@ -1,15 +1,16 @@
 # House-Prices-Advanced-Regression-Technique
 Predicting the price of Houses :
 
-1) Performing EDA
-  1.1 Detecting and Removing Outliers 
-  1.2 Plotting Distribution using Seaborn Distplot
-  1.3 Log transforming the Dataset
-  1.4 Handling missing Data
-  1.5 LabelEncoding
-  1.6 Skewness of the Data
-  1.7 Box Cox Transform
-  1.8 K-Fold Cross Validation Error
+1. Performing EDA
+
+1.1 Detecting and Removing Outliers 
+1.2 Plotting Distribution using Seaborn Distplot
+1.3 Log transforming the Dataset
+1.4 Handling missing Data
+1.5 LabelEncoding
+1.6 Skewness of the Data
+1.7 Box Cox Transform
+1.8 K-Fold Cross Validation Error
   
   
 2) Using Xgboost Algorithm 
