@@ -15,12 +15,19 @@ Predicting the price of Houses :
 2) Using Xgboost Algorithm 
 
   2.1 Tested the algorithm with changing the no. of estimators :
+  
     n_estimators   -    result
+    
     100            -    0.142
+    
     500            -    0.099453
+    
     1000           -    0.0823448
+    
     2000           -    0.0783977
+    
     4000           -    0.0753418
+    
     12000          -    0.07292466620490763
     
   2.2 Making the submission with Xgboost alogrithm and with 1200 estimators .
